@@ -1,0 +1,39 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    color: white;
+}
+.formulario{
+    width: 500px; 
+    height: auto;
+    background: linear-gradient(180deg, #000000, #000000,  #000000,  #000000, #130122, #210140, #350166, #5e06b1, #7b09e6, #7b09e6, #7b09e6);
+    padding: 30px;
+    margin: auto;
+    margin-top: 40px;
+    border-radius: 4px;
+    font-family:'calibri';
+    color: white;
+    border:3px solid #7b09e6;
+   
+    
+}
+img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 200px; 
+    width: 200px; 
+    margin: 20px;
+}
+.formulario button{
+    background: linear-gradient(180deg, #000000, #000000,  #000000,  #000000, #130122, #210140, #350166, #5e06b1, #7b09e6, #7b09e6, #7b09e6);
+    color: white;
+    width: 100px;
+    height: 50px;
+    font-size: 15px;
+
+}
+.opciones h1{
+    margin-left: 400px;
+}

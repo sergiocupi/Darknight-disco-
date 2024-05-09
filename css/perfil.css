@@ -1,0 +1,28 @@
+img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px; 
+    width: 200px; 
+    
+}
+.charlie{
+    height: 200px; 
+    width: 200px; 
+    display: flex;
+    justify-content: center;
+    margin-top:50px;
+
+}
+table,th,tr,td{
+    border: 3px solid black;
+    border-collapse: collapse;
+    height: 70px;
+    width: 700px;
+    padding: 10px;
+
+}
+
+.boton2{
+    color: #000;
+}

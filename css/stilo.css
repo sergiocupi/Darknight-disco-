@@ -1,0 +1,93 @@
+*{
+    box-sizing: border-box;
+    border-top: 4;
+    padding: 0%;
+} 
+body{
+    background: linear-gradient(180deg, #000000, #000000,  #000000,  #000000, #130122, #210140, #350166, #5e06b1, #7b09e6, #7b09e6, #7b09e6) no-repeat;
+    color: white;
+    
+}
+header{
+    width: 100%;
+    height: 78px;
+    background: linear-gradient(90deg, #000000, #2f015a, #5e06b1);
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.logopro{
+    height: 78px;
+    width: 100px;
+    margin: 0;
+}
+
+.tituloo{
+    display: inline-block;
+
+}
+.lineas{
+    width: 75px;
+    height: 78px;
+    margin: 0;
+
+}
+.treslineas{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+}
+
+.titulo6{
+    margin-left: 37%;
+}
+
+table,th,td{
+    border: 3px solid black;
+    border-collapse: collapse;
+    height: 90px;
+    margin: 10px;
+    width: 1850px;
+    padding: 30px;
+}
+
+.container{
+    background-color:solid rgb(73, 52, 192);
+    width: 100%;
+    height: 100%;
+  
+    
+}
+.div-bus{
+    display: flex;
+    justify-content: space-between;
+}
+
+input{
+    margin: 10px;
+    height: 50px;
+ 
+    
+}
+button{
+
+width: 150px;
+ 
+}
+form{
+    float: right;
+    margin-right: 20px;
+   
+}
+
+
+.cuadro2{
+    height: 100%;
+    width: 100%;
+}
+h1{
+    color: #000;
+}
